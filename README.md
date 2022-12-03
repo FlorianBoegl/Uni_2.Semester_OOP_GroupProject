@@ -1,4 +1,4 @@
 # Uni_OOP_Group_Project
 - 2 . Semester 
-- Class name: Objektorientierte Programmierung(Java)
-- Permit for the exam
+- Lecture: Objektorientierte Programmierung(Java)
+- My group project / permit to go to the final exam of this lecture.
