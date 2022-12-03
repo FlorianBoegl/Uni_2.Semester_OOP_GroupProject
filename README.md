@@ -1,4 +1,7 @@
 # Uni_OOP_Group_Project
-- 2 . Semester 
+- Second Semester group project
 - Lecture: Objektorientierte Programmierung(Java)
-- My group project / permit to go to the final exam of this lecture.
+- A successful group project was the permit for the exam of this lecture.
+- My first group project at university
+- Thanks Lukas and Kai for being great partners ;)
+- Will not include the excercises of this lecture, was basically only basic stuff with the last excercise being about a TreeMap()...
